@@ -1,4 +1,4 @@
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Jason Li, a full-stack student developer since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Unison](https://github.com/cup113/unison)  
