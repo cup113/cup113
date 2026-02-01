@@ -1,17 +1,17 @@
-## Intro
+### <div align="center">I'm Jason Li, a full-stack student developer since 2020 🚀</div>  
+  
 
-**I'm Jason Li, a full-stack student developer since 2020 🚀**
+- 🔭 I’m currently working on [Unison](https://github.com/cup113/unison)  
+  
 
 ## My Skill Set
 
-### Frontend
 
 - 🟢🟢🟢🟢⚪ HTML 5 / CSS 3 / JavaScript / TypeScript / Vue.js 3 / Tailwind CSS
 - 🟢🟢🟢⚪⚪ Vite / VitePress
 - 🟢🟢⚪⚪⚪ Electron / Tauri / Vitest
 - 🟢⚪⚪⚪⚪ React / Webpack
 
-### Backend
 
 - 🟢🟢🟢🟢🟢 Python
 - 🟢🟢🟢⚪⚪ C++ / Rust / Node.js / Express.js / FastAPI
@@ -31,7 +31,7 @@
 - 🟢🟢🟢⚪⚪ VSCode
 - 🟢🟢⚪⚪⚪ Zed / LaTeX / Typst
 
-## Connect with me
+<br/>  
 
 **Github [@cup113](https://github.com/cup113)**
 
@@ -39,11 +39,17 @@
 
 **Bilibili [@cup11](https://space.bilibili.com/1721126055)**
 
-### Visits
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cup113&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=cup113%2Fcup113&label=VISITORS&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=cup113%2Fcup113)
 
-### Support me
+<br/>  
 
 <div align="center">
     <a href="https://www.buymeacoffee.com/cup11" target="_blank" style="display: inline-block;">
