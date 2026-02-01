@@ -37,7 +37,7 @@
 
 **Codepen [@cup11](https://codepen.com/cup11)**
 
-**Bilibili [@cup11](https://space.bilibili.com/1721126055>**
+**Bilibili [@cup11](https://space.bilibili.com/1721126055)**
 
 ### Visits
 
