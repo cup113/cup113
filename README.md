@@ -59,6 +59,14 @@ I'm a full-stack student developer passionate about building efficient tools.
   </a>
 </p>
 
+---
+
+## 🗃️ My Projects
+
+[![Stats Powered by github-contrib-stats.vercel.app)](https://github-contrib-stats.vercel.app/cup113/created.svg)](https://github-contrib-stats.vercel.app/)
+
+---
+
 ## ❤️ Support Me
 
 <p align="center">
